@@ -1,0 +1,17 @@
+@Data
+getter를 생성해준다.
+
+@Entity
+db의 테이블을 의미한다.
+
+html
+each - 반복문
+
+findByID
+optional로 받아오므로 get()메서드 필요
+
+파라미터 겟방식
+?id=1
+
+th:block 
+타임리프 방식에서 굳이 감쌀 필요 없는데 사용하기 위한 것
